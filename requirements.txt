@@ -1,0 +1,6 @@
+plotly
+math
+pandas
+numpy
+scipy
+xlrd  2.0.1
